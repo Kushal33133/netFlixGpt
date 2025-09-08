@@ -11,8 +11,11 @@
 - firebase setup
 - deploying our app to prodcution
 - Creating SignUp User Account in Firebase
-Implement Sign IN user APi 
-Created Redux Store with userSlice
+   Implement Sign IN user APi 
+   Created Redux Store with userSlice
+   implement sign out 
+   update profile
+   if the user is logged in then redirect to browse
 
 # FEATURES
 
