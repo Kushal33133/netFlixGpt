@@ -16,6 +16,8 @@
    implement sign out 
    update profile
    if the user is logged in then redirect to browse
+   get access token from tmdb
+   get data from tmdb now playing movie
 
 # FEATURES
 
